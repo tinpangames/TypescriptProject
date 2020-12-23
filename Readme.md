@@ -2,3 +2,5 @@
 npm init -y
 # tsconfig.json 生成
 npx tsc --init
+# インストール
+yarn install
